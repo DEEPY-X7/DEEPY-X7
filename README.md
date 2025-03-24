@@ -1,5 +1,3 @@
-# MY-PROFILE
-
 # Hi, I'm Deepanshu Yadav! 👋
 
 ## 🚀 About Me
