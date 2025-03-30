@@ -39,7 +39,7 @@ I’m on a mission to **redefine the digital frontier** by merging cutting-edge 
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
 
-### 🔒 **Cybersecurity & Ethical Hacking**
+### 🔒 **Cybersecurity & Ethical Hacking** : But Not In Working IN FIeld
 <p align="center">
   <img src="https://img.shields.io/badge/Penetration_Testing-ff4757?style=for-the-badge&logo=appveyor&logoColor=white" alt="Pen Testing">
   <img src="https://img.shields.io/badge/Network_Security-2ed573?style=for-the-badge&logo=appveyor&logoColor=white" alt="Network Security">
@@ -57,7 +57,7 @@ I’m on a mission to **redefine the digital frontier** by merging cutting-edge 
 </p>
 
 ---
-## 💎 **Featured Projects** :-      I will Post After Some Time
+## 💎 **Featured Projects** I Will Post After Some Time
 <p align="center">
   <a href="#">
     <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1" style="margin:10px">
@@ -73,6 +73,9 @@ I’m on a mission to **redefine the digital frontier** by merging cutting-edge 
 ---
 ## 🌎 **Let’s Connect & Build the Future**
 <p align="center">
+  <a href="mailto:deepy.x7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/deepu-yadav-4b63a72b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
