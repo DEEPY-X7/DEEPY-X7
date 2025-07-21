@@ -60,7 +60,7 @@ I’m on a mission to **redefine the digital frontier** by merging cutting-edge 
 ## 💎 **Featured Projects** I Will Post After Some Time
 <p align="center">
   <a href="#">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+1" alt="Project 1" style="margin:10px">
+    <img src="https://tony-dhaba-nx.vercel.app/" alt="Project 1" style="margin:10px">
   </a>
   <a href="#">
     <img src="https://via.placeholder.com/300x150.png?text=Project+2" alt="Project 2" style="margin:10px">
